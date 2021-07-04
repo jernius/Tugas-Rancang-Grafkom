@@ -76,259 +76,259 @@ void display(void)
        glVertex3f(80.0, 0.0, 50.0);
        glVertex3f(80.0,0.0, -50.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(-3.0, 0.0, 4.0);
         glVertex3f(3.0, 0.0, 4.0);
         glVertex3f(3.0, 38.0, 4.0);
         glVertex3f(-3.0, 38.0, 4.0);
     glEnd();
- glBegin(GL_QUADS);//bangunan universitas
+ glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(3.0, 0.0, 4.0);
         glVertex3f(3.5, 0.0, 5.0);
         glVertex3f(3.5, 38.0, 5.0);
         glVertex3f(3.0, 38.0, 4.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(3.5, 0.0, 5.0);
         glVertex3f(4.5, 0.0, 5.0);
         glVertex3f(4.5, 38.0, 5.0);
         glVertex3f(3.5, 38.0, 5.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(4.5, 0.0, 5.0);
         glVertex3f(5.0, 0.0, 4.0);
         glVertex3f(5.0, 38.0, 4.0);
         glVertex3f(4.5, 38.0, 5.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(5.0, 0.0, 4.0);
         glVertex3f(5.0, 0.0, 3.0);
         glVertex3f(5.0, 38.0, 3.0);
         glVertex3f(5.0, 38.0, 4.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(5.0, 0.0, 3.0);
         glVertex3f(6.0, 0.0, 3.0);
         glVertex3f(6.0, 38.0, 3.0);
         glVertex3f(5.0, 38.0, 3.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(6.0, 0.0, 3.0);
         glVertex3f(6.0, 0.0, -3.0);
         glVertex3f(6.0, 38.0, -3.0);
         glVertex3f(6.0, 38.0, 3.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(6.0, 0.0, -3.0);
         glVertex3f(5.0, 0.0, -3.0);
         glVertex3f(5.0, 38.0, -3.0);
         glVertex3f(6.0, 38.0, -3.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(5.0, 0.0, -3.0);
         glVertex3f(5.0, 0.0, -4.0);
         glVertex3f(5.0, 38.0, -4.0);
         glVertex3f(5.0, 38.0, -3.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(5.0, 0.0, -4.0);
         glVertex3f(4.0, 0.0, -5.0);
         glVertex3f(4.0, 38.0, -5.0);
         glVertex3f(5.0, 38.0, -4.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(4.0, 0.0, -5.0);
         glVertex3f(-4.0, 0.0, -5.0);
         glVertex3f(-4.0, 38.0, -5.0);
         glVertex3f(4.0, 38.0, -5.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(-4.0, 0.0, -5.0);
         glVertex3f(-5.0, 0.0, -4.0);
         glVertex3f(-5.0, 38.0, -4.0);
         glVertex3f(-4.0, 38.0, -5.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(-5.0, 0.0, -4.0);
         glVertex3f(-5.0, 0.0, -3.0);
         glVertex3f(-5.0, 38.0, -3.0);
         glVertex3f(-5.0, 38.0, -4.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(-5.0, 0.0, -3.0);
         glVertex3f(-6.0, 0.0, -3.0);
         glVertex3f(-6.0, 38.0, -3.0);
         glVertex3f(-5.0, 38.0, -3.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(-6.0, 0.0, -3.0);
         glVertex3f(-6.0, 0.0, 3.0);
         glVertex3f(-6.0, 38.0, 3.0);
         glVertex3f(-6.0, 38.0, -3.0);
     glEnd();
-glBegin(GL_QUADS);//bangunan universitas
+glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(-6.0, 0.0, 3.0);
         glVertex3f(-5.0, 0.0, 3.0);
         glVertex3f(-5.0, 38.0, 3.0);
         glVertex3f(-6.0, 38.0, 3.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(-5.0, 0.0, 3.0);
         glVertex3f(-5.0, 0.0, 4.0);
         glVertex3f(-5.0, 38.0, 4.0);
         glVertex3f(-5.0, 38.0, 3.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(-5.0, 0.0, 4.0);
         glVertex3f(-4.5, 0.0, 5.0);
         glVertex3f(-4.5, 38.0, 5.0);
         glVertex3f(-5.0, 38.0, 4.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(-4.5, 0.0, 5.0);
         glVertex3f(-3.5, 0.0, 5.0);
         glVertex3f(-3.5, 38.0, 5.0);
         glVertex3f(-4.5, 38.0, 5.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(-3.5, 0.0, 5.0);
         glVertex3f(-3.0, 0.0, 4.0);
         glVertex3f(-3.0, 38.0, 4.0);
         glVertex3f(-3.5, 38.0, 5.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(-6.0, 0.0, 3.0);
         glVertex3f(-16.0, 0.0, 3.0);
         glVertex3f(-16.0, 20.0, 3.0);
         glVertex3f(-6.0, 20.0, 3.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(6.0, 0.0, 3.0);
         glVertex3f(16.0, 0.0, 3.0);
         glVertex3f(16.0, 20.0, 3.0);
         glVertex3f(6.0, 20.0, 3.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(6.0, 0.0, -3.0);
         glVertex3f(16.0, 0.0, -3.0);
         glVertex3f(16.0, 20.0, -3.0);
         glVertex3f(6.0, 20.0, -3.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(-6.0, 0.0, -3.0);
         glVertex3f(-16.0, 0.0, -3.0);
         glVertex3f(-16.0, 20.0, -3.0);
         glVertex3f(-6.0, 20.0, -3.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(-16.0, 0.0, 13.0);
         glVertex3f(-16.0, 0.0, -13.0);
         glVertex3f(-16.0, 20.0, -13.0);
         glVertex3f(-16.0, 20.0, 13.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(16.0, 0.0, 13.0);
         glVertex3f(16.0, 0.0, -13.0);
         glVertex3f(16.0, 20.0, -13.0);
         glVertex3f(16.0, 20.0, 13.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(16.0, 0.0, 13.0);
         glVertex3f(17.0, 0.0, 13.0);
         glVertex3f(17.0, 20.0, 13.0);
         glVertex3f(16.0, 20.0, 13.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(17.0, 0.0, 16.0);
         glVertex3f(17.0, 0.0, 13.0);
         glVertex3f(17.0, 20.0, 13.0);
         glVertex3f(17.0, 20.0, 16.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(17.0, 0.0, 16.0);
         glVertex3f(23.0, 0.0, 16.0);
         glVertex3f(23.0, 20.0, 16.0);
         glVertex3f(17.0, 20.0, 16.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(23.0, 0.0, 16.0);
         glVertex3f(23.0, 0.0, 10.0);
         glVertex3f(23.0, 20.0, 10.0);
         glVertex3f(23.0, 20.0, 16.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(22.0, 0.0, 10.0);
         glVertex3f(23.0, 0.0, 10.0);
         glVertex3f(23.0, 20.0, 10.0);
         glVertex3f(22.0, 20.0, 10.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(22.0, 0.0, 10.0);
         glVertex3f(22.0, 0.0, -10.0);
         glVertex3f(22.0, 20.0, -10.0);
         glVertex3f(22.0, 20.0, 10.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(22.0, 0.0, -10.0);
         glVertex3f(23.0, 0.0, -10.0);
         glVertex3f(23.0, 20.0, -10.0);
         glVertex3f(22.0, 20.0, -10.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(16.0, 0.0, -13.0);
         glVertex3f(17.0, 0.0, -13.0);
         glVertex3f(17.0, 20.0, -13.0);
         glVertex3f(16.0, 20.0, -13.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(17.0, 0.0, -16.0);
         glVertex3f(17.0, 0.0, -13.0);
         glVertex3f(17.0, 20.0, -13.0);
         glVertex3f(17.0, 20.0, -16.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(17.0, 0.0, -16.0);
         glVertex3f(23.0, 0.0, -16.0);
         glVertex3f(23.0, 20.0, -16.0);
         glVertex3f(17.0, 20.0, -16.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(23.0, 0.0, -16.0);
         glVertex3f(23.0, 0.0, -10.0);
@@ -336,77 +336,77 @@ glBegin(GL_QUADS);//bangunan universitas
         glVertex3f(23.0, 20.0, -16.0);
 
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(-16.0, 0.0, 13.0);
         glVertex3f(-17.0, 0.0, 13.0);
         glVertex3f(-17.0, 20.0, 13.0);
         glVertex3f(-16.0, 20.0, 13.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(-17.0, 0.0, 16.0);
         glVertex3f(-17.0, 0.0, 13.0);
         glVertex3f(-17.0, 20.0, 13.0);
         glVertex3f(-17.0, 20.0, 16.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(-17.0, 0.0, 16.0);
         glVertex3f(-23.0, 0.0, 16.0);
         glVertex3f(-23.0, 20.0, 16.0);
         glVertex3f(-17.0, 20.0, 16.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(-23.0, 0.0, 16.0);
         glVertex3f(-23.0, 0.0, 10.0);
         glVertex3f(-23.0, 20.0, 10.0);
         glVertex3f(-23.0, 20.0, 16.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(-22.0, 0.0, 10.0);
         glVertex3f(-23.0, 0.0, 10.0);
         glVertex3f(-23.0, 20.0, 10.0);
         glVertex3f(-22.0, 20.0, 10.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(-22.0, 0.0, 10.0);
         glVertex3f(-22.0, 0.0, -10.0);
         glVertex3f(-22.0, 20.0, -10.0);
         glVertex3f(-22.0, 20.0, 10.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(-22.0, 0.0, -10.0);
         glVertex3f(-23.0, 0.0, -10.0);
         glVertex3f(-23.0, 20.0, -10.0);
         glVertex3f(-22.0, 20.0, -10.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(-16.0, 0.0, -13.0);
         glVertex3f(-17.0, 0.0, -13.0);
         glVertex3f(-17.0, 20.0, -13.0);
         glVertex3f(-16.0, 20.0, -13.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(-17.0, 0.0, -16.0);
         glVertex3f(-17.0, 0.0, -13.0);
         glVertex3f(-17.0, 20.0, -13.0);
         glVertex3f(-17.0, 20.0, -16.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(-17.0, 0.0, -16.0);
         glVertex3f(-23.0, 0.0, -16.0);
         glVertex3f(-23.0, 20.0, -16.0);
         glVertex3f(-17.0, 20.0, -16.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(-23.0, 0.0, -16.0);
         glVertex3f(-23.0, 0.0, -10.0);
@@ -557,70 +557,70 @@ glBegin(GL_QUADS);//bangunan universitas
         glVertex3f(-28.0, 12.0, 23.0);
         glVertex3f(-28.0, 12.0, 15.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(-48.0, 0.0, 23.0);
         glVertex3f(-28.0, 0.0, 23.0);
         glVertex3f(-28.0, 12.0, 23.0);
         glVertex3f(-48.0, 12.0, 23.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(-48.0, 0.0, 23.0);
         glVertex3f(-48.0, 0.0, 24.0);
         glVertex3f(-48.0, 12.0, 24.0);
         glVertex3f(-48.0, 12.0, 23.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(-48.0, 0.0, 24.0);
         glVertex3f(-56.0, 0.0, 24.0);
         glVertex3f(-56.0, 12.0, 24.0);
         glVertex3f(-48.0, 12.0, 24.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(-56.0, 0.0, 24.0);
         glVertex3f(-56.0, 0.0, 16.0);
         glVertex3f(-56.0, 12.0, 16.0);
         glVertex3f(-56.0, 12.0, 24.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(-48.0, 0.0, 16.0);
         glVertex3f(-56.0, 0.0, 16.0);
         glVertex3f(-56.0, 12.0, 16.0);
         glVertex3f(-48.0, 12.0, 16.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(-48.0, 0.0, 17.0);
         glVertex3f(-48.0, 0.0, 16.0);
         glVertex3f(-48.0, 12.0, 16.0);
         glVertex3f(-48.0, 12.0, 17.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(-48.0, 0.0, 17.0);
         glVertex3f(-34.0, 0.0, 17.0);
         glVertex3f(-34.0, 12.0, 17.0);
         glVertex3f(-48.0, 12.0, 17.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(-34.0, 0.0, 17.0);
         glVertex3f(-34.0, 0.0, 9.0);
         glVertex3f(-34.0, 12.0, 9.0);
         glVertex3f(-34.0, 12.0, 17.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(-28.0, 0.0, 9.0);
         glVertex3f(-34.0, 0.0, 9.0);
         glVertex3f(-34.0, 12.0, 9.0);
         glVertex3f(-28.0, 12.0, 9.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(-28.0, 0.0, 11.0);
         glVertex3f(-28.0, 0.0, 9.0);
@@ -628,77 +628,77 @@ glBegin(GL_QUADS);//bangunan universitas
         glVertex3f(-28.0, 12.0, 11.0);
     glEnd();
     // bagian 4.3
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(28.0, 0.0, -15.0);
         glVertex3f(28.0, 0.0, -23.0);
         glVertex3f(28.0, 12.0, -23.0);
         glVertex3f(28.0, 12.0, -15.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(48.0, 0.0, -23.0);
         glVertex3f(28.0, 0.0, -23.0);
         glVertex3f(28.0, 12.0, -23.0);
         glVertex3f(48.0, 12.0, -23.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(48.0, 0.0, -23.0);
         glVertex3f(48.0, 0.0, -24.0);
         glVertex3f(48.0, 12.0, -24.0);
         glVertex3f(48.0, 12.0, -23.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(48.0, 0.0, -24.0);
         glVertex3f(56.0, 0.0, -24.0);
         glVertex3f(56.0, 12.0, -24.0);
         glVertex3f(48.0, 12.0, -24.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(56.0, 0.0, -24.0);
         glVertex3f(56.0, 0.0, -16.0);
         glVertex3f(56.0, 12.0, -16.0);
         glVertex3f(56.0, 12.0, -24.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(48.0, 0.0, -16.0);
         glVertex3f(56.0, 0.0, -16.0);
         glVertex3f(56.0, 12.0, -16.0);
         glVertex3f(48.0, 12.0, -16.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(48.0, 0.0, -17.0);
         glVertex3f(48.0, 0.0, -16.0);
         glVertex3f(48.0, 12.0, -16.0);
         glVertex3f(48.0, 12.0, -17.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(48.0, 0.0, -17.0);
         glVertex3f(34.0, 0.0, -17.0);
         glVertex3f(34.0, 12.0, -17.0);
         glVertex3f(48.0, 12.0, -17.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(34.0, 0.0, -17.0);
         glVertex3f(34.0, 0.0, -9.0);
         glVertex3f(34.0, 12.0, -9.0);
         glVertex3f(34.0, 12.0, -17.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(28.0, 0.0, -9.0);
         glVertex3f(34.0, 0.0, -9.0);
         glVertex3f(34.0, 12.0, -9.0);
         glVertex3f(28.0, 12.0, -9.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(28.0, 0.0, -11.0);
         glVertex3f(28.0, 0.0, -9.0);
@@ -706,77 +706,77 @@ glBegin(GL_QUADS);//bangunan universitas
         glVertex3f(28.0, 12.0, -11.0);
     glEnd();
     //bagian 4.4
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(-28.0, 0.0, -15.0);
         glVertex3f(-28.0, 0.0, -23.0);
         glVertex3f(-28.0, 12.0, -23.0);
         glVertex3f(-28.0, 12.0, -15.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(-48.0, 0.0, -23.0);
         glVertex3f(-28.0, 0.0, -23.0);
         glVertex3f(-28.0, 12.0, -23.0);
         glVertex3f(-48.0, 12.0, -23.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(-48.0, 0.0, -23.0);
         glVertex3f(-48.0, 0.0, -24.0);
         glVertex3f(-48.0, 12.0, -24.0);
         glVertex3f(-48.0, 12.0, -23.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(-48.0, 0.0, -24.0);
         glVertex3f(-56.0, 0.0, -24.0);
         glVertex3f(-56.0, 12.0, -24.0);
         glVertex3f(-48.0, 12.0, -24.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(-56.0, 0.0, -24.0);
         glVertex3f(-56.0, 0.0, -16.0);
         glVertex3f(-56.0, 12.0, -16.0);
         glVertex3f(-56.0, 12.0, -24.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(-48.0, 0.0, -16.0);
         glVertex3f(-56.0, 0.0, -16.0);
         glVertex3f(-56.0, 12.0, -16.0);
         glVertex3f(-48.0, 12.0, -16.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(-48.0, 0.0, -17.0);
         glVertex3f(-48.0, 0.0, -16.0);
         glVertex3f(-48.0, 12.0, -16.0);
         glVertex3f(-48.0, 12.0, -17.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(-48.0, 0.0, -17.0);
         glVertex3f(-34.0, 0.0, -17.0);
         glVertex3f(-34.0, 12.0, -17.0);
         glVertex3f(-48.0, 12.0, -17.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(-34.0, 0.0, -17.0);
         glVertex3f(-34.0, 0.0, -9.0);
         glVertex3f(-34.0, 12.0, -9.0);
         glVertex3f(-34.0, 12.0, -17.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(-28.0, 0.0, -9.0);
         glVertex3f(-34.0, 0.0, -9.0);
         glVertex3f(-34.0, 12.0, -9.0);
         glVertex3f(-28.0, 12.0, -9.0);
     glEnd();
-    glBegin(GL_QUADS);//bangunan universitas
+    glBegin(GL_QUADS);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(-28.0, 0.0, -11.0);
         glVertex3f(-28.0, 0.0, -9.0);
@@ -784,7 +784,7 @@ glBegin(GL_QUADS);//bangunan universitas
         glVertex3f(-28.0, 12.0, -11.0);
     glEnd();
 
-    glBegin(GL_POLYGON);//bangunan universitas
+    glBegin(GL_POLYGON);//garis depan rumah`
         glColor3f(255.0f, 255.0f, 255.0f);
         glVertex3f(-3.5, 0.0, 4.0);
         glVertex3f(-3.0, 0.0, 4.0);
@@ -1200,6 +1200,140 @@ glBegin(GL_QUADS);//bangunan universitas
     glVertex3f(-48.0,5.0,-16.0);
     glEnd();
 
+    //lantai 3 universitas
+    glBegin(GL_POLYGON);
+    glColor3f(0.0f,0.1f,0.0f);
+    glVertex3f(23.0,12.0,15.0);
+    glVertex3f(28.0,12.0,15.0);
+    glVertex3f(28.0,12.0,11.0);
+    glVertex3f(23.0,12.0,11.0);
+    glEnd();
+
+    glBegin(GL_POLYGON);
+    glColor3f(0.0f,0.1f,0.0f);
+    glVertex3f(28.0,12.0,23.0);
+    glVertex3f(28.0,12.0,9.0);
+    glVertex3f(34.0,12.0,9.0);
+    glVertex3f(34.0,12.0,23.0);
+    glEnd();
+
+    glBegin(GL_POLYGON);
+    glColor3f(0.0f,0.1f,0.0f);
+    glVertex3f(34.0,12.0,23.0);
+    glVertex3f(48.0,12.0,23.0);
+    glVertex3f(48.0,12.0,17.0);
+    glVertex3f(34.0,12.0,17.0);
+    glEnd();
+
+    glBegin(GL_POLYGON);
+    glColor3f(0.0f,0.1f,0.0f);
+    glVertex3f(48.0,12.0,24.0);
+    glVertex3f(56.0,12.0,24.0);
+    glVertex3f(56.0,12.0,16.0);
+    glVertex3f(48.0,12.0,16.0);
+    glEnd();
+
+//lantai 3 universitas 2
+
+    glBegin(GL_POLYGON);
+    glColor3f(0.0f,0.1f,0.0f);
+    glVertex3f(23.0,12.0,-15.0);
+    glVertex3f(28.0,12.0,-15.0);
+    glVertex3f(28.0,12.0,-11.0);
+    glVertex3f(23.0,12.0,-11.0);
+    glEnd();
+
+    glBegin(GL_POLYGON);
+    glColor3f(0.0f,0.1f,0.0f);
+    glVertex3f(28.0,12.0,-23.0);
+    glVertex3f(28.0,12.0,-9.0);
+    glVertex3f(34.0,12.0,-9.0);
+    glVertex3f(34.0,12.0,-23.0);
+    glEnd();
+
+    glBegin(GL_POLYGON);
+    glColor3f(0.0f,0.1f,0.0f);
+    glVertex3f(34.0,12.0,-23.0);
+    glVertex3f(48.0,12.0,-23.0);
+    glVertex3f(48.0,12.0,-17.0);
+    glVertex3f(34.0,12.0,-17.0);
+    glEnd();
+
+    glBegin(GL_POLYGON);
+    glColor3f(0.0f,0.1f,0.0f);
+    glVertex3f(48.0,12.0,-24.0);
+    glVertex3f(56.0,12.0,-24.0);
+    glVertex3f(56.0,12.0,-16.0);
+    glVertex3f(48.0,12.0,-16.0);
+    glEnd();
+
+//lantai 3 universitas 3
+    glBegin(GL_POLYGON);
+    glColor3f(0.0f,0.1f,0.0f);
+    glVertex3f(-23.0,12.0,15.0);
+    glVertex3f(-28.0,12.0,15.0);
+    glVertex3f(-28.0,12.0,11.0);
+    glVertex3f(-23.0,12.0,11.0);
+    glEnd();
+
+    glBegin(GL_POLYGON);
+    glColor3f(0.0f,0.1f,0.0f);
+    glVertex3f(-28.0,12.0,23.0);
+    glVertex3f(-28.0,12.0,9.0);
+    glVertex3f(-34.0,12.0,9.0);
+    glVertex3f(-34.0,12.0,23.0);
+    glEnd();
+
+    glBegin(GL_POLYGON);
+    glColor3f(0.0f,0.1f,0.0f);
+    glVertex3f(-34.0,12.0,23.0);
+    glVertex3f(-48.0,12.0,23.0);
+    glVertex3f(-48.0,12.0,17.0);
+    glVertex3f(-34.0,12.0,17.0);
+    glEnd();
+
+    glBegin(GL_POLYGON);
+    glColor3f(0.0f,0.1f,0.0f);
+    glVertex3f(-48.0,12.0,24.0);
+    glVertex3f(-56.0,12.0,24.0);
+    glVertex3f(-56.0,12.0,16.0);
+    glVertex3f(-48.0,12.0,16.0);
+    glEnd();
+
+//lantai 3 universitas 4
+
+    glBegin(GL_POLYGON);
+    glColor3f(0.0f,0.1f,0.0f);
+    glVertex3f(-23.0,12.0,-15.0);
+    glVertex3f(-28.0,12.0,-15.0);
+    glVertex3f(-28.0,12.0,-11.0);
+    glVertex3f(-23.0,12.0,-11.0);
+    glEnd();
+
+    glBegin(GL_POLYGON);
+    glColor3f(0.0f,0.1f,0.0f);
+    glVertex3f(-28.0,12.0,-23.0);
+    glVertex3f(-28.0,12.0,-9.0);
+    glVertex3f(-34.0,12.0,-9.0);
+    glVertex3f(-34.0,12.0,-23.0);
+    glEnd();
+
+    glBegin(GL_POLYGON);
+    glColor3f(0.0f,0.1f,0.0f);
+    glVertex3f(-34.0,12.0,-23.0);
+    glVertex3f(-48.0,12.0,-23.0);
+    glVertex3f(-48.0,12.0,-17.0);
+    glVertex3f(-34.0,12.0,-17.0);
+    glEnd();
+
+    glBegin(GL_POLYGON);
+    glColor3f(0.0f,0.1f,0.0f);
+    glVertex3f(-48.0,12.0,-24.0);
+    glVertex3f(-56.0,12.0,-24.0);
+    glVertex3f(-56.0,12.0,-16.0);
+    glVertex3f(-48.0,12.0,-16.0);
+    glEnd();
+
 // kanan tengah lantai 2
 
     glBegin(GL_POLYGON);
@@ -1284,6 +1418,90 @@ glBegin(GL_QUADS);//bangunan universitas
     glVertex3f(-16.0,10.0,-13.0);
     glEnd();
 
+    // kanan tengah lantai 3
+
+    glBegin(GL_POLYGON);
+    glColor3f(0.0f,0.1f,0.0f);
+    glVertex3f(17.0,20.0,13.0);
+    glVertex3f(23.0,20.0,13.0);
+    glVertex3f(23.0,20.0,16.0);
+    glVertex3f(17.0,20.0,16.0);
+    glEnd();
+
+    glBegin(GL_POLYGON);
+    glColor3f(0.0f,0.1f,0.0f);
+    glVertex3f(23.0,20.0,13.0);
+    glVertex3f(23.0,20.0,10.0);
+    glVertex3f(22.0,20.0,10.0);
+    glVertex3f(22.0,20.0,13.0);
+    glEnd();
+
+    glBegin(GL_POLYGON);
+    glColor3f(0.0f,0.1f,0.0f);
+    glVertex3f(17.0,20.0,-13.0);
+    glVertex3f(23.0,20.0,-13.0);
+    glVertex3f(23.0,20.0,-16.0);
+    glVertex3f(17.0,20.0,-16.0);
+    glEnd();
+
+    glBegin(GL_POLYGON);
+    glColor3f(0.0f,0.1f,0.0f);
+    glVertex3f(23.0,20.0,-13.0);
+    glVertex3f(23.0,20.0,-10.0);
+    glVertex3f(22.0,20.0,-10.0);
+    glVertex3f(22.0,20.0,-13.0);
+    glEnd();
+
+    glBegin(GL_POLYGON);
+    glColor3f(0.0f,0.1f,0.0f);
+    glVertex3f(16.0,20.0,13.0);
+    glVertex3f(22.0,20.0,13.0);
+    glVertex3f(22.0,20.0,-13.0);
+    glVertex3f(16.0,20.0,-13.0);
+    glEnd();
+
+// kiri tengah lantai 3*
+
+    glBegin(GL_POLYGON);
+    glColor3f(0.0f,0.1f,0.0f);
+    glVertex3f(-17.0,20.0,13.0);
+    glVertex3f(-23.0,20.0,13.0);
+    glVertex3f(-23.0,20.0,16.0);
+    glVertex3f(-17.0,20.0,16.0);
+    glEnd();
+
+    glBegin(GL_POLYGON);
+    glColor3f(0.0f,0.1f,0.0f);
+    glVertex3f(-23.0,20.0,13.0);
+    glVertex3f(-23.0,20.0,10.0);
+    glVertex3f(-22.0,20.0,10.0);
+    glVertex3f(-22.0,20.0,13.0);
+    glEnd();
+
+    glBegin(GL_POLYGON);
+    glColor3f(0.0f,0.1f,0.0f);
+    glVertex3f(-17.0,20.0,-13.0);
+    glVertex3f(-23.0,20.0,-13.0);
+    glVertex3f(-23.0,20.0,-16.0);
+    glVertex3f(-17.0,20.0,-16.0);
+    glEnd();
+
+    glBegin(GL_POLYGON);
+    glColor3f(0.0f,0.1f,0.0f);
+    glVertex3f(-23.0,20.0,-13.0);
+    glVertex3f(-23.0,20.0,-10.0);
+    glVertex3f(-22.0,20.0,-10.0);
+    glVertex3f(-22.0,20.0,-13.0);
+    glEnd();
+
+    glBegin(GL_POLYGON);
+    glColor3f(0.0f,0.1f,0.0f);
+    glVertex3f(-16.0,20.0,13.0);
+    glVertex3f(-22.0,20.0,13.0);
+    glVertex3f(-22.0,20.0,-13.0);
+    glVertex3f(-16.0,20.0,-13.0);
+    glEnd();
+
     //kanan hampir tengah lantai 2
     glBegin(GL_POLYGON);
     glColor3f(0.0f,0.1f,0.0f);
@@ -1302,6 +1520,23 @@ glBegin(GL_QUADS);//bangunan universitas
     glVertex3f(-6.0,10.0,3.0);
     glEnd();
 
+    //kanan hampir tengah lantai 3
+    glBegin(GL_POLYGON);
+    glColor3f(0.0f,0.1f,0.0f);
+    glVertex3f(16.0,20.0,3.0);
+    glVertex3f(16.0,20.0,-3.0);
+    glVertex3f(6.0,20.0,-3.0);
+    glVertex3f(6.0,20.0,3.0);
+    glEnd();
+
+     //kiri hampir tengah lantai 3
+    glBegin(GL_POLYGON);
+    glColor3f(0.0f,0.1f,0.0f);
+    glVertex3f(-16.0,20.0,3.0);
+    glVertex3f(-16.0,20.0,-3.0);
+    glVertex3f(-6.0,20.0,-3.0);
+    glVertex3f(-6.0,20.0,3.0);
+    glEnd();
 
     //tengah lantai 2
     glBegin(GL_POLYGON);
@@ -1373,6 +1608,171 @@ glBegin(GL_QUADS);//bangunan universitas
 
     glEnd();
 
+    //tengah lantai 4
+    glBegin(GL_POLYGON);
+    glColor3f(0.0f,0.1f,0.0f);
+    glVertex3f(6.0,38.0,3.0);
+    glVertex3f(6.0,38.0,-3.0);
+    glVertex3f(-6.0,38.0,-3.0);
+    glVertex3f(-6.0,38.0,3.0);
+    glEnd();
+
+
+     glBegin(GL_POLYGON);
+    glColor3f(0.0f,0.1f,0.0f);
+    glVertex3f(5.0,38.0,-3.0);
+    glVertex3f(5.0,38.0,-4.0);
+    glVertex3f(4.5,38.0,-5.0);
+    glVertex3f(-4.5,38.0,-5.0);
+    glVertex3f(-5.0,38.0,-5.0);
+    glVertex3f(-5.0,38.0,-3.0);
+    glEnd();
+
+    glBegin(GL_POLYGON);
+    glColor3f(0.0f,0.1f,0.0f);
+    glVertex3f(5.0,38.0,3.0);
+    glVertex3f(5.0,38.0,4.0);
+    glVertex3f(4.5,38.0,5.0);
+    glVertex3f(3.5,38.0,5.0);
+    glVertex3f(3.0,38.0,4.0);
+    glVertex3f(-3.0,38.0,4.0);
+    glVertex3f(-3.5,38.0,5.0);
+    glVertex3f(-4.5,38.0,5.0);
+    glVertex3f(-5.0,38.0,4.0);
+    glVertex3f(-5.0,38.0,3.0);
+
+    glEnd();
+    glBegin(GL_POLYGON);
+    glColor3f(0.8f,0.8f,0.8f);
+    glVertex3f(3.0,6.0,4.0);
+    glVertex3f(-3.0,6.0,4.0);
+    glVertex3f(-3.0,6.0,16.0);
+    glVertex3f(3.0,6.0,16.0);
+    glEnd();
+
+    glBegin(GL_POLYGON);
+    glColor3f(0.0f,0.0f,0.0f);
+    glVertex3f(1.0,4.0,4.5);
+    glVertex3f(-1.0,4.0,4.5);
+    glVertex3f(-1.0,1.0,4.5);
+    glVertex3f(1.0,1.0,4.5);
+    glEnd();
+
+    //puncak universitas 1
+    glBegin(GL_POLYGON);
+    glColor3f(0.0f,0.0f,0.0f);
+    glVertex3f(46.0,12.0,26.0);
+    glVertex3f(51.0,20.0,20.0);
+    glVertex3f(46.0,12.0,14);
+    glEnd();
+
+    glBegin(GL_POLYGON);
+    glColor3f(0.0f,0.0f,0.0f);
+    glVertex3f(46.0,12.0,26.0);
+    glVertex3f(51.0,20.0,20.0);
+    glVertex3f(58.0,12.0,26);
+    glEnd();
+
+    glBegin(GL_POLYGON);
+    glColor3f(0.0f,0.0f,0.0f);
+    glVertex3f(58.0,12.0,14.0);
+    glVertex3f(51.0,20.0,20.0);
+    glVertex3f(58.0,12.0,26);
+    glEnd();
+
+    glBegin(GL_POLYGON);
+    glColor3f(0.0f,0.0f,0.0f);
+    glVertex3f(58.0,12.0,14.0);
+    glVertex3f(51.0,20.0,20.0);
+    glVertex3f(46.0,12.0,14);
+    glEnd();
+
+    //puncak universitas 2
+    glBegin(GL_POLYGON);
+    glColor3f(0.0f,0.0f,0.0f);
+    glVertex3f(-46.0,12.0,26.0);
+    glVertex3f(-51.0,20.0,20.0);
+    glVertex3f(-46.0,12.0,14);
+    glEnd();
+
+    glBegin(GL_POLYGON);
+    glColor3f(0.0f,0.0f,0.0f);
+    glVertex3f(-46.0,12.0,26.0);
+    glVertex3f(-51.0,20.0,20.0);
+    glVertex3f(-58.0,12.0,26);
+    glEnd();
+
+    glBegin(GL_POLYGON);
+    glColor3f(0.0f,0.0f,0.0f);
+    glVertex3f(-58.0,12.0,14.0);
+    glVertex3f(-51.0,20.0,20.0);
+    glVertex3f(-58.0,12.0,26);
+    glEnd();
+
+    glBegin(GL_POLYGON);
+    glColor3f(0.0f,0.0f,0.0f);
+    glVertex3f(-58.0,12.0,14.0);
+    glVertex3f(-51.0,20.0,20.0);
+    glVertex3f(-46.0,12.0,14);
+    glEnd();
+
+    //puncak universitas 3
+    glBegin(GL_POLYGON);
+    glColor3f(0.0f,0.0f,0.0f);
+    glVertex3f(46.0,12.0,-26.0);
+    glVertex3f(51.0,20.0,-20.0);
+    glVertex3f(46.0,12.0,-14);
+    glEnd();
+
+    glBegin(GL_POLYGON);
+    glColor3f(0.0f,0.0f,0.0f);
+    glVertex3f(46.0,12.0,-26.0);
+    glVertex3f(51.0,20.0,-20.0);
+    glVertex3f(58.0,12.0,-26);
+    glEnd();
+
+    glBegin(GL_POLYGON);
+    glColor3f(0.0f,0.0f,0.0f);
+    glVertex3f(58.0,12.0,-14.0);
+    glVertex3f(51.0,20.0,-20.0);
+    glVertex3f(58.0,12.0,-26);
+    glEnd();
+
+    glBegin(GL_POLYGON);
+    glColor3f(0.0f,0.0f,0.0f);
+    glVertex3f(58.0,12.0,-14.0);
+    glVertex3f(51.0,20.0,-20.0);
+    glVertex3f(46.0,12.0,-14);
+    glEnd();
+
+    //puncak universitas 4
+    glBegin(GL_POLYGON);
+    glColor3f(0.0f,0.0f,0.0f);
+    glVertex3f(-46.0,12.0,-26.0);
+    glVertex3f(-51.0,20.0,-20.0);
+    glVertex3f(-46.0,12.0,-14);
+    glEnd();
+
+    glBegin(GL_POLYGON);
+    glColor3f(0.0f,0.0f,0.0f);
+    glVertex3f(-46.0,12.0,-26.0);
+    glVertex3f(-51.0,20.0,-20.0);
+    glVertex3f(-58.0,12.0,-26);
+    glEnd();
+
+    glBegin(GL_POLYGON);
+    glColor3f(0.0f,0.0f,0.0f);
+    glVertex3f(-58.0,12.0,-14.0);
+    glVertex3f(-51.0,20.0,-20.0);
+    glVertex3f(-58.0,12.0,-26);
+    glEnd();
+
+    glBegin(GL_POLYGON);
+    glColor3f(0.0f,0.0f,0.0f);
+    glVertex3f(-58.0,12.0,-14.0);
+    glVertex3f(-51.0,20.0,-20.0);
+    glVertex3f(-46.0,12.0,-14);
+    glEnd();
 
     glPopMatrix();
     glutSwapBuffers();
