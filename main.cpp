@@ -1870,3 +1870,20 @@ void resize(int width, int height)
     glTranslatef(0.0, -5.0, -150.0);
     glMatrixMode(GL_MODELVIEW);
 }
+
+int main (int argc, char **argv)
+{
+    glutInit(&argc, argv);
+    glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGB);
+    glutInitWindowSize(900, 900);
+    glutInitWindowPosition(40, 40);
+    glutCreateWindow("Lomonosov Moscow State University Rusia");
+    init();
+    glutDisplayFunc(display);
+    glutKeyboardFunc(keyboard);
+    glutMouseFunc(mouseButton);
+    glutMotionFunc(mouseMove);
+    glutReshapeFunc(resize);
+    glutMainLoop();
+    return 0;
+}
