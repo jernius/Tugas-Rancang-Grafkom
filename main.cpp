@@ -1199,8 +1199,8 @@ glBegin(GL_QUADS);//garis depan rumah`
     glVertex3f(-56.0,5.0,-16.0);
     glVertex3f(-48.0,5.0,-16.0);
     glEnd();
-	
-	  //lantai 3 universitas
+
+    //lantai 3 universitas
     glBegin(GL_POLYGON);
     glColor3f(0.0f,0.1f,0.0f);
     glVertex3f(23.0,12.0,15.0);
@@ -1417,8 +1417,8 @@ glBegin(GL_QUADS);//garis depan rumah`
     glVertex3f(-22.0,10.0,-13.0);
     glVertex3f(-16.0,10.0,-13.0);
     glEnd();
-	
-	 // kanan tengah lantai 3
+
+    // kanan tengah lantai 3
 
     glBegin(GL_POLYGON);
     glColor3f(0.0f,0.1f,0.0f);
@@ -1520,7 +1520,7 @@ glBegin(GL_QUADS);//garis depan rumah`
     glVertex3f(-6.0,10.0,3.0);
     glEnd();
 
-	//kanan hampir tengah lantai 3
+    //kanan hampir tengah lantai 3
     glBegin(GL_POLYGON);
     glColor3f(0.0f,0.1f,0.0f);
     glVertex3f(16.0,20.0,3.0);
@@ -1605,8 +1605,10 @@ glBegin(GL_QUADS);//garis depan rumah`
     glVertex3f(-4.5,26.0,5.0);
     glVertex3f(-5.0,26.0,4.0);
     glVertex3f(-5.0,26.0,3.0);
+
     glEnd();
-//tengah lantai 4
+
+    //tengah lantai 4
     glBegin(GL_POLYGON);
     glColor3f(0.0f,0.1f,0.0f);
     glVertex3f(6.0,38.0,3.0);
@@ -1640,8 +1642,6 @@ glBegin(GL_QUADS);//garis depan rumah`
     glVertex3f(-5.0,38.0,3.0);
 
     glEnd();
-	
-	glEnd();
     glBegin(GL_POLYGON);
     glColor3f(0.8f,0.8f,0.8f);
     glVertex3f(3.0,6.0,4.0);
@@ -1657,8 +1657,8 @@ glBegin(GL_QUADS);//garis depan rumah`
     glVertex3f(-1.0,1.0,4.5);
     glVertex3f(1.0,1.0,4.5);
     glEnd();
-	
-	//puncak universitas 1
+
+    //puncak universitas 1
     glBegin(GL_POLYGON);
     glColor3f(0.0f,0.0f,0.0f);
     glVertex3f(46.0,12.0,26.0);
@@ -1774,7 +1774,6 @@ glBegin(GL_QUADS);//garis depan rumah`
     glVertex3f(-46.0,12.0,-14);
     glEnd();
 
-
     glPopMatrix();
     glutSwapBuffers();
 }
@@ -1870,21 +1869,4 @@ void resize(int width, int height)
     gluPerspective(45.0, width / height, 1.0, 400.0);
     glTranslatef(0.0, -5.0, -150.0);
     glMatrixMode(GL_MODELVIEW);
-}
-
-int main (int argc, char **argv)
-{
-    glutInit(&argc, argv);
-    glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGB);
-    glutInitWindowSize(900, 900);
-    glutInitWindowPosition(40, 40);
-    glutCreateWindow("Lomonosov Moscow State University Rusia");
-    init();
-    glutDisplayFunc(display);
-    glutKeyboardFunc(keyboard);
-    glutMouseFunc(mouseButton);
-    glutMotionFunc(mouseMove);
-    glutReshapeFunc(resize);
-    glutMainLoop();
-    return 0;
 }
