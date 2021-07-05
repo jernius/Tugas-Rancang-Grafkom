@@ -1731,120 +1731,120 @@ glBegin(GL_QUADS);//Bangunan Universitas
     glVertex3f(-2.5,43.0,3.0);
     glEnd();
 
-    //puncak universitas 1
+   //puncak universitas 1
     glBegin(GL_POLYGON);
     glColor3f(255.0f, 255.0f, 255.0f);
-    glVertex3f(46.0,12.0,26.0);
-    glVertex3f(51.0,20.0,20.0);
-    glVertex3f(46.0,12.0,14);
+    glVertex3f(15.0,20.0,8.0);
+    glVertex3f(15.0,20.0,18.0);
+    glVertex3f(20.0,25.0,13);
     glEnd();
 
     glBegin(GL_POLYGON);
     glColor3f(255.0f, 255.0f, 255.0f);
-    glVertex3f(46.0,12.0,26.0);
-    glVertex3f(51.0,20.0,20.0);
-    glVertex3f(58.0,12.0,26);
+    glVertex3f(15.0,20.0,18.0);
+    glVertex3f(25.0,20.0,18.0);
+    glVertex3f(20.0,25.0,13);
     glEnd();
 
     glBegin(GL_POLYGON);
     glColor3f(255.0f, 255.0f, 255.0f);
-    glVertex3f(58.0,12.0,14.0);
-    glVertex3f(51.0,20.0,20.0);
-    glVertex3f(58.0,12.0,26);
+    glVertex3f(25.0,20.0,18.0);
+    glVertex3f(25.0,20.0,8.0);
+    glVertex3f(20.0,25.0,13);
     glEnd();
 
     glBegin(GL_POLYGON);
     glColor3f(255.0f, 255.0f, 255.0f);
-    glVertex3f(58.0,12.0,14.0);
-    glVertex3f(51.0,20.0,20.0);
-    glVertex3f(46.0,12.0,14);
+    glVertex3f(25.0,20.0,8.0);
+    glVertex3f(15.0,20.0,8.0);
+    glVertex3f(20.0,25.0,13);
     glEnd();
 
     //puncak universitas 2
     glBegin(GL_POLYGON);
     glColor3f(255.0f, 255.0f, 255.0f);
-    glVertex3f(-46.0,12.0,26.0);
-    glVertex3f(-51.0,20.0,20.0);
-    glVertex3f(-46.0,12.0,14);
+    glVertex3f(15.0,20.0,-8.0);
+    glVertex3f(15.0,20.0,-18.0);
+    glVertex3f(20.0,25.0,-13);
     glEnd();
 
     glBegin(GL_POLYGON);
     glColor3f(255.0f, 255.0f, 255.0f);
-    glVertex3f(-46.0,12.0,26.0);
-    glVertex3f(-51.0,20.0,20.0);
-    glVertex3f(-58.0,12.0,26);
+    glVertex3f(15.0,20.0,-18.0);
+    glVertex3f(25.0,20.0,-18.0);
+    glVertex3f(20.0,25.0,-13);
     glEnd();
 
     glBegin(GL_POLYGON);
     glColor3f(255.0f, 255.0f, 255.0f);
-    glVertex3f(-58.0,12.0,14.0);
-    glVertex3f(-51.0,20.0,20.0);
-    glVertex3f(-58.0,12.0,26);
+    glVertex3f(25.0,20.0,-18.0);
+    glVertex3f(25.0,20.0,-8.0);
+    glVertex3f(20.0,25.0,-13);
     glEnd();
 
     glBegin(GL_POLYGON);
     glColor3f(255.0f, 255.0f, 255.0f);
-    glVertex3f(-58.0,12.0,14.0);
-    glVertex3f(-51.0,20.0,20.0);
-    glVertex3f(-46.0,12.0,14);
+    glVertex3f(25.0,20.0,-8.0);
+    glVertex3f(15.0,20.0,-8.0);
+    glVertex3f(20.0,25.0,-13);
     glEnd();
 
     //puncak universitas 3
     glBegin(GL_POLYGON);
     glColor3f(255.0f, 255.0f, 255.0f);
-    glVertex3f(46.0,12.0,-26.0);
-    glVertex3f(51.0,20.0,-20.0);
-    glVertex3f(46.0,12.0,-14);
+    glVertex3f(-15.0,20.0,8.0);
+    glVertex3f(-15.0,20.0,18.0);
+    glVertex3f(-20.0,25.0,13);
     glEnd();
 
     glBegin(GL_POLYGON);
     glColor3f(255.0f, 255.0f, 255.0f);
-    glVertex3f(46.0,12.0,-26.0);
-    glVertex3f(51.0,20.0,-20.0);
-    glVertex3f(58.0,12.0,-26);
+    glVertex3f(-15.0,20.0,18.0);
+    glVertex3f(-25.0,20.0,18.0);
+    glVertex3f(-20.0,25.0,13);
     glEnd();
 
     glBegin(GL_POLYGON);
     glColor3f(255.0f, 255.0f, 255.0f);
-    glVertex3f(58.0,12.0,-14.0);
-    glVertex3f(51.0,20.0,-20.0);
-    glVertex3f(58.0,12.0,-26);
+    glVertex3f(-25.0,20.0,18.0);
+    glVertex3f(-25.0,20.0,8.0);
+    glVertex3f(-20.0,25.0,13);
     glEnd();
 
     glBegin(GL_POLYGON);
     glColor3f(255.0f, 255.0f, 255.0f);
-    glVertex3f(58.0,12.0,-14.0);
-    glVertex3f(51.0,20.0,-20.0);
-    glVertex3f(46.0,12.0,-14);
+    glVertex3f(-25.0,20.0,8.0);
+    glVertex3f(-15.0,20.0,8.0);
+    glVertex3f(-20.0,25.0,13);
     glEnd();
 
     //puncak universitas 4
-    glBegin(GL_POLYGON);
+glBegin(GL_POLYGON);
     glColor3f(255.0f, 255.0f, 255.0f);
-    glVertex3f(-46.0,12.0,-26.0);
-    glVertex3f(-51.0,20.0,-20.0);
-    glVertex3f(-46.0,12.0,-14);
+    glVertex3f(-15.0,20.0,-8.0);
+    glVertex3f(-15.0,20.0,-18.0);
+    glVertex3f(-20.0,25.0,-13);
     glEnd();
 
     glBegin(GL_POLYGON);
     glColor3f(255.0f, 255.0f, 255.0f);
-    glVertex3f(-46.0,12.0,-26.0);
-    glVertex3f(-51.0,20.0,-20.0);
-    glVertex3f(-58.0,12.0,-26);
+    glVertex3f(-15.0,20.0,-18.0);
+    glVertex3f(-25.0,20.0,-18.0);
+    glVertex3f(-20.0,25.0,-13);
     glEnd();
 
     glBegin(GL_POLYGON);
     glColor3f(255.0f, 255.0f, 255.0f);
-    glVertex3f(-58.0,12.0,-14.0);
-    glVertex3f(-51.0,20.0,-20.0);
-    glVertex3f(-58.0,12.0,-26);
+    glVertex3f(-25.0,20.0,-18.0);
+    glVertex3f(-25.0,20.0,-8.0);
+    glVertex3f(-20.0,25.0,-13);
     glEnd();
 
     glBegin(GL_POLYGON);
     glColor3f(255.0f, 255.0f, 255.0f);
-    glVertex3f(-58.0,12.0,-14.0);
-    glVertex3f(-51.0,20.0,-20.0);
-    glVertex3f(-46.0,12.0,-14);
+    glVertex3f(-25.0,20.0,-8.0);
+    glVertex3f(-15.0,20.0,-8.0);
+    glVertex3f(-20.0,25.0,-13);
     glEnd();
 
     glPopMatrix();
