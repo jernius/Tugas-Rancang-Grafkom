@@ -1689,8 +1689,7 @@ glBegin(GL_QUADS);//Bangunan Universitas
     glVertex3f(-5.0,38.0,4.0);
     glVertex3f(-5.0,38.0,3.0);
     glEnd();
-
-
+	
     //puncak tengah
     glBegin(GL_QUADS);
     glColor3f(255.0f, 255.0f, 255.0f);
